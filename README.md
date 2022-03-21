@@ -15,7 +15,7 @@
 - [ ] 4.11(NLP)  对话系统                                              
 - [ ] 4.11(KG)    QUALITY ASSESSMENT                        
 - [ ] 4.13(NLP)  对话系统                                          
-- [ ] 4.13(KG)    REFINEMENT                                          丁翘楚 许佳文 吴广群
+- [ ] 4.13(KG)    REFINEMENT                               
 - [ ] 4.18(NLP)  机器翻译                                           
 - [ ] 4.18(KG)    PUBLICATION                            
 - [ ] 4.20(NLP)  机器翻译                                        
