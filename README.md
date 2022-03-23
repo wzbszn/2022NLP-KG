@@ -2,7 +2,7 @@
 
 - [x] 3.21(NLP)  词向量表示
 - [x] 3.21(KG)    INTRODUCTION
-- [ ] 3.23(NLP)  序列模型与语言模型
+- [x] 3.23(NLP)  序列模型与语言模型
 - [ ] 3.23(KG)    DATA GRAPHS 
 - [ ] 3.28(NLP)  文本分类    
 - [ ] 3.28(KG)    SCHEMA, IDENTITY, CONTEXT 
