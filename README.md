@@ -5,7 +5,7 @@
 - [x] 3.23(NLP)  序列模型与语言模型
 - [x] 3.23(KG)    DATA GRAPHS 
 - [x] 3.28(NLP)  文本分类    
-- [ ] 3.28(KG)    SCHEMA, IDENTITY, CONTEXT 
+- [x] 3.28(KG)    SCHEMA, IDENTITY, CONTEXT 
 - [ ] 3.30(NLP)  情感分析     
 - [ ] 3.30(KG)    DEDUCTIVE KNOWLEDGE   
 - [ ] 4.4(NLP)    信息检索                                  
